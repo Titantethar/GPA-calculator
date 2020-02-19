@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=HangMan
+comment0.text=\n\ Write\ a\ description\ of\ class\ HangMan\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=u
+comment2.target=boolean\ underscoreCheck(char[])
+numComments=3

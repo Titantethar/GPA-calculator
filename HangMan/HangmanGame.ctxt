@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=HangmanGame
+comment1.params=
+comment1.target=java.lang.String\ nextWordToFind()
+comment2.params=
+comment2.target=void\ newGame()
+comment3.params=
+comment3.target=boolean\ wordFound()
+comment4.params=c
+comment4.target=void\ enter(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ wordFoundContent()
+comment6.params=
+comment6.target=void\ play()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
